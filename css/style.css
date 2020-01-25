@@ -1,0 +1,20 @@
+.container{
+    width: 80%!important;
+    margin: 45px auto !important;
+    padding: 20px!important;
+    background: #f8f8f8!important;
+    height: auto!important;
+    border-radius: 6px;
+}
+
+.titleCls{
+    font-weight: 900;
+}
+
+.subtitleBar{
+    padding-top:5vw;
+}
+
+.multiselect-container {
+    height:40px;
+}
